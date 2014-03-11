@@ -1,0 +1,22 @@
+/*
+Clase para centrar un elemento en la pantalla. 
+*/
+.center{
+    text-align: center;
+    margin-top: 50px;
+    margin:0 auto;
+    width: auto;
+    clear: both;
+}
+
+.container{
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
